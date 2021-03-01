@@ -1,0 +1,12 @@
+---
+title: "Our website"
+author: "Emily Urban (@eurban8) and Nicole Foley (@NicoleF01)"
+date: "3/1/2021"
+output: html_document
+---
+
+
+
+![](https://media-cdn.tripadvisor.com/media/photo-s/05/89/84/74/the-statler-hotel-at.jpg)
+
+Photo: Cornell campus in the winter 
